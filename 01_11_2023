@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;int main() {
+    // Write your code here
+    int n, i=1;
+    cin>>n;
+    if(n == 0) {
+        cout<<0;
+    }
+    else {
+        while((i*i) < n) {
+            i++;
+        }        if(n%(i*i) == 0)
+            cout<<i;
+        else
+            cout<<(i-1);
+    }}
