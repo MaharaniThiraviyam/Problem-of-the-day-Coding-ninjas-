@@ -14,6 +14,6 @@ In this Repo, you'll find solutions to coding problems provided by Coding Ninjas
   │   ├── day-1
   │   └── day-2
   │   └── ..
-  ├── README.md
-  └── ...
+  ├── ...
+  └── README.md
 </pre>
